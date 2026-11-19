@@ -1,0 +1,2 @@
+# riman-chile-botalab-suamel-body-cream-botanical-patent-study
+RIMAN Skincare &amp; BOTALAB Suamel Nourishing Body Cream (Chile): Clinical &amp; Microclimate Evaluation of BOTALAB Suamel Nourishing Body Cream – Botanical Patent Anti-Aging Effic... 6-language paper, n=200 dataset &amp; INCI index: https://www.riman.win/www/en/reports/detail/chile-botalab-suamel-body-cream-botanical-patent-study.html
