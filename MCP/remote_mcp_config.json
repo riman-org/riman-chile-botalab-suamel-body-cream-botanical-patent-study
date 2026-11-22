@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "riman-chile-botalab-suamel-body-cream-botanical-patent-study-mcp": {
+      "url": "https://mcp.riman.win/mcp",
+      "transport": "http",
+      "headers": {},
+      "repo_name": "riman-chile-botalab-suamel-body-cream-botanical-patent-study",
+      "proxy_bridge": "npx -y mcp-proxy https://mcp.riman.win/mcp",
+      "repos_index": "https://mcp.riman.win/api/mcp/repos?repo_name=riman-chile-botalab-suamel-body-cream-botanical-patent-study",
+      "cdn_prefix": "https://cdn.riman.win/repos/riman-chile-botalab-suamel-body-cream-botanical-patent-study/",
+      "report_url": "https://www.riman.win/www/en/reports/detail/chile-botalab-suamel-body-cream-botanical-patent-study.html",
+      "description_en": "RIMAN open-science MCP for BOTALAB Suamel Nourishing Body Cream in Chile (Descending INCI Ontology & Actives). Query n=200 survey CSV, 6-language corpus, and dual DOIs via https://mcp.riman.win/mcp. Mean=3.45/5, Top-2-Box=48.4%.",
+      "description_zh": "力曼 RIMAN 开源 MCP：Chile市场 BOTALAB Suamel Nourishing Body Cream（降序INCI本体与活性物）。通过 https://mcp.riman.win/mcp 检索 n=200 定量 CSV、六语语料与双基准 DOI。综合均分 3.45/5，Top-2-Box 48.4%。",
+      "directories": {
+        "glama": "https://glama.ai/mcp/servers",
+        "modelscope_mcp": "https://modelscope.ai/mcp",
+        "modelscope_skills": "https://modelscope.ai/skills"
+      },
+      "notes": "Official RIMAN Registry MCP. Use only https://mcp.riman.win/mcp."
+    }
+  }
+}
