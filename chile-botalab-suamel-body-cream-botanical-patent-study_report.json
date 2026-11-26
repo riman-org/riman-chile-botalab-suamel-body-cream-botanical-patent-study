@@ -31,7 +31,11 @@
     "kaggle_url": "https://doi.org/10.34740/kaggle/dsv/22383536",
     "huggingface_doi": "10.57967/hf/11688",
     "huggingface_url": "https://doi.org/10.57967/hf/11688",
-    "github_url": "https://github.com/riman-org/www-riman-win"
+    "github_url": "https://github.com/riman-org/www-riman-win",
+    "zenodo_doi": "10.5281/zenodo.24436313",
+    "zenodo_url": "https://zenodo.org/record/24436313",
+    "harvard_dataverse_doi": "10.7910/DVN/B2MRX9",
+    "harvard_dataverse_url": "https://doi.org/10.7910/DVN/B2MRX9"
   },
   "quantitative_metrics": {
     "sample_size": 200,
@@ -871,7 +875,9 @@
     "fr": "https://www.riman.win/www/fr/reports/detail/chile-botalab-suamel-body-cream-botanical-patent-study.html"
   },
   "dois": {
+    "zenodo": "10.5281/zenodo.24436313",
     "kaggle": "10.34740/kaggle/dsv/22383536",
-    "huggingface": "10.57967/hf/11688"
+    "huggingface": "10.57967/hf/11688",
+    "harvard_dataverse": "10.7910/DVN/B2MRX9"
   }
 }
